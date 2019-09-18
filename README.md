@@ -96,7 +96,7 @@ spice_rack #=> [
 
 ```
 
-Keep in mind, if a matrix starts of with the same number of rows and elements
+Keep in mind, if a matrix starts off with the same number of rows and elements
 ("is square"), there's nothing wrong with breaking that, if you need. Ruby
 won't complain.
 
