@@ -29,7 +29,7 @@ Dinner"`. What would `spice_rack` look like then?
 
 ***TRY IT OUT IN IRB***. We can't emphasize this behavior enough. Programmers,
 when they reach head-scratchers like this, always ask IRB to teach them. Your
-learning will not gel as well if you do not take this step. Don't set your
+learning will not get as well if you do not take this step. Don't set your
 learning backwards!
 
 As we hope you discovered, we **can** add at _any_ coordinate pair. If the
